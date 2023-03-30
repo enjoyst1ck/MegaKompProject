@@ -1,0 +1,38 @@
+[
+    {
+      "Id": 1,
+      "Name": "Dyski SSD"
+    },
+    {
+      "Id": 2,
+      "Name": "Dyski HDD"
+    },
+    {
+      "Id": 3,
+      "Name": "Karty graficzne"
+    },
+    {
+      "Id": 4,
+      "Name": "Karty dźwiękowe"
+    },
+    {
+      "Id": 5,
+      "Name": "Pamięci RAM"
+    },
+    {
+      "Id": 6,
+      "Name": "Płyty główne"
+    },
+    {
+      "Id": 7,
+      "Name": "Procesory"
+    },
+    {
+      "Id": 8,
+      "Name": "Zasilacze"
+    },
+    {
+      "Id": 9,
+      "Name": "Kable i akcesoria"
+    }
+]

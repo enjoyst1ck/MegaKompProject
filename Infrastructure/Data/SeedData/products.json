@@ -1,0 +1,178 @@
+[
+    {
+      "Name": "Karta dźwiękowa Creative Sound BlasterX AE-5 Plus",
+      "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+      "Price": 578,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 4,
+      "ProductBrandId": 5
+    },
+    {
+      "Name": "Karta graficzna Gainward GeForce RTX 3060Ti Ghost 8GB GDDR6",
+      "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+      "Price": 2199,
+      "PictureUrl": "images/products/sb-ang2.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 7
+    },
+    {
+      "Name": "Karta graficzna AMD Radeon RX 6950 XT 16GB GDDR6",
+      "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+      "Price": 8799,
+      "PictureUrl": "images/products/sb-core1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 1
+    },
+    {
+      "Name": "Karta graficzna Gigabyte GeForce RTX 4090 Gaming OC 24 GB GDDR6X",
+      "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+      "Price": 300,
+      "PictureUrl": "images/products/sb-core2.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 8
+    },
+    {
+      "Name": "Karta graficzna Gigabyte GeForce RTX 3070 Ti Gaming OC 8GB GDDR6X",
+      "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+      "Price": 3099,
+      "PictureUrl": "images/products/sb-react1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 8
+    },
+    {
+      "Name": "Karta graficzna Gigabyte GeForce RTX 3060 Eagle OC 12GB GDDR6",
+      "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "Price": 1770,
+      "PictureUrl": "images/products/sb-ts1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 8
+    },
+    {
+      "Name": "Pamięć Kingston Fury Beast, DDR4, 8 GB, 2666MHz, CL16",
+      "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+      "Price": 276.85,
+      "PictureUrl": "images/products/hat-core1.png",
+      "ProductTypeId": 5,
+      "ProductBrandId": 10
+    },
+    {
+      "Name": "Pamięć Patriot Viper Steel, DDR4, 16 GB, 3600MHz, CL17",
+      "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+      "Price": 222.34,
+      "PictureUrl": "images/products/hat-react1.png",
+      "ProductTypeId": 5,
+      "ProductBrandId": 12
+    },
+    {
+      "Name": "Pamięć Corsair Vengeance LPX, DDR4, 16 GB, 3000MHz, CL16",
+      "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+      "Price": 214.50,
+      "PictureUrl": "images/products/hat-react2.png",
+      "ProductTypeId": 5,
+      "ProductBrandId": 4
+    },
+    {
+      "Name": "Procesor AMD Ryzen 7 5800X3D, 3.4 GHz, 96 MB, BOX",
+      "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+      "Price": 1599,
+      "PictureUrl": "images/products/glove-code1.png",
+      "ProductTypeId": 7,
+      "ProductBrandId": 1
+    },
+    {
+      "Name": "Procesor Intel Core i3-10100F, 3.6 GHz, 6 MB, BOX",
+      "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+      "Price": 400,
+      "PictureUrl": "images/products/glove-code2.png",
+      "ProductTypeId": 7,
+      "ProductBrandId": 9
+    },
+    {
+      "Name": "Płyta główna Asus TUF GAMING Z690-PLUS D4",
+      "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+      "Price": 1099,
+      "PictureUrl": "images/products/glove-react1.png",
+      "ProductTypeId": 6,
+      "ProductBrandId": 2
+    },
+    {
+      "Name": "Płyta główna MSI PRO B660M-G DDR4",
+      "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+      "Price": 499.99,
+      "PictureUrl": "images/products/glove-react2.png",
+      "ProductTypeId": 6,
+      "ProductBrandId": 11
+    },
+    {
+      "Name": "Zasilacz Corsair RM850e 850W",
+      "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+      "Price": 650,
+      "PictureUrl": "images/products/boot-redis1.png",
+      "ProductTypeId": 8,
+      "ProductBrandId": 4
+    },
+    {
+      "Name": "Zasilacz Endorfy Supremo FM5 Gold 850W",
+      "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+      "Price": 574.99,
+      "PictureUrl": "images/products/boot-core2.png",
+      "ProductTypeId": 8,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Zasilacz Thermaltake Smart SE 530W",
+      "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+      "Price": 249.99,
+      "PictureUrl": "images/products/boot-core1.png",
+      "ProductTypeId": 8,
+      "ProductBrandId": 14
+    },
+    {
+      "Name": "Dysk Seagate BarraCuda 2TB 2.5' SATA III",
+      "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+      "Price": 299.99,
+      "PictureUrl": "images/products/boot-ang2.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 13
+    },
+    {
+      "Name": "Dysk Toshiba P300 3TB 3.5 SATA III",
+      "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+      "Price": 349.99,
+      "PictureUrl": "images/products/boot-ang1.png",
+      "ProductTypeId": 2,
+      "ProductBrandId": 15
+    },
+    {
+        "Name": "Dysk Seagate BarraCuda 1TB 3.5 SATA III",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 179.99,
+        "PictureUrl": "images/products/boot-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 13
+    },
+    {
+        "Name": "Dysk SSD Gigabyte 960GB 2.5 SATA III ",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 249.99,
+        "PictureUrl": "images/products/boot-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 8
+    },
+    {
+        "Name": "Dysk SSD Patriot P300 1TB M.2 2280 PCI-E x4 Gen3 NVMe",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 267,
+        "PictureUrl": "images/products/boot-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 12
+    },
+    {
+        "Name": "Dysk SSD MSI Spatium M371 1TB M.2 2280 PCI-E x4 Gen3 NVMe",
+        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+        "Price": 255,
+        "PictureUrl": "images/products/boot-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 11
+    }
+  ]

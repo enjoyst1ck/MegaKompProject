@@ -1,0 +1,62 @@
+[
+    {
+      "Id": 1,
+      "Name": "AMD"
+    },
+    {
+      "Id": 2,
+      "Name": "Asus"
+    },
+    {
+      "Id": 3,
+      "Name": "Axagon"
+    },
+    {
+      "Id": 4,
+      "Name": "Corsair"
+    },
+    {
+      "Id": 5,
+      "Name": "Creative"
+    },
+    {
+      "Id": 6,
+      "Name": "Endorfy"
+    },
+    {
+      "Id": 7,
+      "Name": "Gainward"
+    },
+    {
+      "Id": 8,
+      "Name": "Gigabyte"
+    },
+    {
+      "Id": 9,
+      "Name": "Intel"
+    },
+    {
+      "Id": 10,
+      "Name": "Kingston Fury"
+    },
+    {
+      "Id": 11,
+      "Name": "MSI"
+    },
+    {
+      "Id": 12,
+      "Name": "Patriot"
+    },
+    {
+      "Id": 13,
+      "Name": "Seagate"
+    },
+    {
+      "Id": 14,
+      "Name": "Thermaltake"
+    },
+    {
+      "Id": 15,
+      "Name": "Toshiba"
+    }
+]

@@ -1,0 +1,21 @@
+<div class="bg-light px-4 py-3 text-uppercase fw-bold">
+    Podsumowanie zamówienia
+</div>
+
+<div class="p-4">
+    <p class="fst-italic mb-4">Koszt zamówienia będzie obliczany na podstawie wyborów dokonanych podczas realizacji transakcji</p>
+    <ul class="list-unstyled mb-4" *ngIf="(basketService.basketTotalSource$ | async) as totals">
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Suma częściowa</strong>
+            <strong>{{totals.subtotal}} zł</strong>
+        </li>
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Wysyłka i zamówienie</strong>
+            <strong>{{totals.shipping}} zł</strong>
+        </li>
+        <li class="d-flex justify-content-between py-3 border-bottom">
+            <strong class="text-muted">Suma całkowita</strong>
+            <strong>{{totals.total}} zł</strong>
+        </li>
+    </ul>
+</div>

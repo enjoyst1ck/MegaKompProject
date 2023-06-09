@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "InPost",
+    "Description": "Najszybszy czas dostarczenia",
+    "DeliveryTime": "1-2 Dni",
+    "Price": 10
+  },
+  {
+    "Id": 2,
+    "ShortName": "DPD",
+    "Description": "W ciągu 5 dni",
+    "DeliveryTime": "2-5 Days",
+    "Price": 5
+  },
+  {
+    "Id": 3,
+    "ShortName": "UPS",
+    "Description": "Wolniej, lecz taniej",
+    "DeliveryTime": "5-10 Days",
+    "Price": 2
+  },
+  {
+    "Id": 4,
+    "ShortName": "FREE",
+    "Description": "Za darmo!",
+    "DeliveryTime": "1-2 Weeks",
+    "Price": 0
+  }
+]
